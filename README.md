@@ -1,6 +1,6 @@
-# silvuss-thoughts
+# varts
 
-This project contains a website with my (silvuss's) thoughts. I treat it as my blog. You can find here, for example, thoughts on technical writing, and philosophic thoughts.
+This project contains a website with my various thoughts. I treat it as my blog. You can find here, for example, thoughts on technical writing, and philosophic thoughts.
 
 ## Table of contents
 
@@ -12,7 +12,7 @@ This project contains a website with my (silvuss's) thoughts. I treat it as my b
 
 ## Copyright note
 
-Note that this project "silvuss-thoughts" (this repository) has currently **no license**, as explained in [this GitHub guide on licensing projects](https://choosealicense.com/no-permission/).
+Note that this project "varts" (this repository) has currently **no license**, as explained in [this GitHub guide on licensing projects](https://choosealicense.com/no-permission/).
 
 For your convenience, I am including below a quote from that site:
 
@@ -23,10 +23,6 @@ Also note that I can add a license in the future if it would be relevant to the 
 ## Disclaimers
 
 Although I have made efforts to make the website (that this project contains) work as intended and described, it is not a "professional" website. Specifically, it was not tested in terms of separate unit tests or similar. It was tested to build on two platforms. For details on the platform, see the section "[Environment, tools and technologies used](#environment-tools-and-technologies-used)" below.
-
-## How to see this website?
-
-One can see this website online by going to the following URL in their web browser: https://silvuss.github.io/
 
 ## Environments, tools and technologies used
 
